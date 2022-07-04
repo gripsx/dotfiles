@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mehdinaoufel@gmail.com
+	name = Mehdi Naoufel
